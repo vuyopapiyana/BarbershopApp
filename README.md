@@ -55,4 +55,3 @@ A simple and user-friendly Java application for booking barber appointments. Thi
 ## Contact
 
 **Developer**: Notch’s Son
-**Email**: 19vuypap@redhill.co.za
