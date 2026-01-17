@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# NetBeans
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled Java
+*.class
+
+# Database temporary files
+*.db-journal
+*.db
+
+# Libraries
+*.jar
+
+
+# Other
+src/img
+*.png
+*.jpg
+*.jpeg
+*.zip

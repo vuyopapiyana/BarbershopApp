@@ -1,0 +1,4 @@
+1. Choose a date for the appointment. You may only book an appointment a month in advance
+2. Choose a barber and pick the hairstyle you want to do.
+3. Pay the required amount or check tip to give our barbers a generous tip.
+4. Click confirm to finish your booking

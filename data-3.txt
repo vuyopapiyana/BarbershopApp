@@ -1,0 +1,26 @@
+Waterfront,1,RB
+St Monicas Cathedral,3,R
+Conference Centre,2,R
+CC,3,R
+Market Square,2,RBY
+Clock Tower,2,Y
+Idayimani Museum,3,Y
+Grande Hotel,5,BY
+SA Heritage Museum,2,Y
+Apartheid Museum,2,Y
+Fort of Idayimani,3,Y
+SA Botanical Garden,1,B
+die Diamant Wine Estate,2,BP
+Central Zoo,2,B
+Diamond Township,3,B
+Sailors Wharf,1,B
+Groot Clementia Wine Farm,3,P
+Blue Crane Farm,2,P
+Beau Clementia,3,P
+Jewel Africa,3,R
+Taemane National Park,2,R
+Igugu Marine Park,2,RB
+President Hotel,3,RB
+St Johns Road,4,RB
+Winchester Hotel,3,RB
+Soccer Stadium,2,RB

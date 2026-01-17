@@ -1,0 +1,14 @@
+Barber PAT
+
+This is a simple appointment booking application. The program is 
+intended to allow users to book and specify which haircut they 
+want to do at their next appointment. Users will pick the hairstyle,
+the barber and the date of the appointment. This application 
+will reduce the possibility of a barber or user forgetting about 
+the haircut they have scheduled. It provides a user-friendly way
+of for users to view and delete any of their appointments.
+
+
+Version: 1.4.1 
+Developed by: Notch’s Son
+Contact: 19vuypap@redhill.co.za
